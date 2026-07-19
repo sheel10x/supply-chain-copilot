@@ -1,17 +1,24 @@
 import os
 from typing import List, Dict, Any, Optional
 from pinecone import Pinecone, ServerlessSpec
-from langchain_huggingface import HuggingFaceEmbeddings
+from langchain_google_genai import GoogleGenerativeAIEmbeddings
 from rank_bm25 import BM25Okapi
 
 class RetrievalStore:
-    def __init__(self, index_name: str = "rfp-analyzer"):
+    def __init__(self, index_name: str = "rfp-analyzer-gemini"):
         self.pc = Pinecone(api_key=os.environ.get("PINECONE_API_KEY"))
         self.index_name = index_name
         
-        # Initialize Embeddings (Free local embeddings)
-        self.embeddings = HuggingFaceEmbeddings(model_name="all-MiniLM-L6-v2")
-        self.dimension = 384 # dimension of all-MiniLM-L6-v2
+        # Initialize Embeddings (Google Gemini API - instant, no RAM usage)
+        gemini_api_key = os.environ.get("GEMINI_API_KEY")
+        if not gemini_api_key:
+            raise ValueError("GEMINI_API_KEY is missing! You must add it to your Render dashboard to use fast embeddings.")
+            
+        self.embeddings = GoogleGenerativeAIEmbeddings(
+            model="models/text-embedding-004", 
+            google_api_key=gemini_api_key
+        )
+        self.dimension = 768 # dimension of text-embedding-004
         
         # Ensure Pinecone index exists
         self._ensure_index()
