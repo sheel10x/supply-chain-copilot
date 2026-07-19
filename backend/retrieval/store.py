@@ -15,10 +15,10 @@ class RetrievalStore:
             raise ValueError("GEMINI_API_KEY is missing! You must add it to your Render dashboard to use fast embeddings.")
             
         self.embeddings = GoogleGenerativeAIEmbeddings(
-            model="models/text-embedding-004", 
+            model="models/gemini-embedding-001", 
             google_api_key=gemini_api_key
         )
-        self.dimension = 768 # dimension of text-embedding-004
+        self.dimension = 3072 # dimension of gemini-embedding-001
         
         # Ensure Pinecone index exists
         self._ensure_index()
