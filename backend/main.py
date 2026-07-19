@@ -29,6 +29,11 @@ app.add_middleware(
 )
 
 
+@app.get("/")
+async def root():
+    """Root endpoint to verify API is running."""
+    return {"message": "RFQ Analyzer API is running. Visit /docs for documentation."}
+
 @app.get("/healthz")
 async def health_check():
     """Health check endpoint."""
