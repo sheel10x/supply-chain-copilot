@@ -5,6 +5,8 @@ from pathlib import Path
 
 from fastapi import FastAPI, UploadFile, File, Form
 from fastapi.middleware.cors import CORSMiddleware
+from fastapi.staticfiles import StaticFiles
+from fastapi.responses import FileResponse
 from dotenv import load_dotenv
 
 from ingestion.parser import RFPParser
@@ -29,7 +31,7 @@ app.add_middleware(
 )
 
 
-@app.get("/")
+@app.get("/api")
 async def root():
     """Root endpoint to verify API is running."""
     return {"message": "RFQ Analyzer API is running. Visit /docs for documentation."}
@@ -38,6 +40,8 @@ async def root():
 async def health_check():
     """Health check endpoint."""
     return {"status": "ok"}
+
+# We will mount static files at the bottom of the file.
 
 
 @app.post("/ingest")
@@ -123,6 +127,10 @@ async def ingest_document(
     except Exception as e:
         return {"status": "error", "message": str(e)}
 
+# Mount the static files from the frontend export at the root
+frontend_dir = Path(__file__).parent.parent / "frontend" / "out"
+if frontend_dir.exists():
+    app.mount("/", StaticFiles(directory=str(frontend_dir), html=True), name="static")
 
 if __name__ == "__main__":
     import uvicorn

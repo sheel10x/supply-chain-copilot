@@ -1,9 +1,9 @@
 services:
   - type: web
-    name: supply-chain-copilot-backend
+    name: supply-chain-copilot
     plan: free
     env: python
-    buildCommand: "pip install -r requirements.txt"
+    buildCommand: "cd ../frontend && npm install && npm run build && cd ../backend && pip install -r requirements.txt"
     startCommand: "uvicorn main:app --host 0.0.0.0 --port $PORT"
     rootDir: backend
     envVars:
@@ -23,19 +23,3 @@ services:
         value: "rfp-analyzer"
       - key: UPLOAD_ACCESS_CODE
         value: "dev-access-code"
-
-  - type: web
-    name: supply-chain-copilot-frontend
-    plan: free
-    env: node
-    buildCommand: "npm install && npm run build"
-    startCommand: "npm run start"
-    rootDir: frontend
-    envVars:
-      - key: NODE_VERSION
-        value: "20.18.0"
-      - key: NEXT_PUBLIC_API_URL
-        fromService:
-          type: web
-          name: supply-chain-copilot-backend
-          envVarKey: RENDER_EXTERNAL_URL
