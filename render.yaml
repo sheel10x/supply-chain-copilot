@@ -1,0 +1,29 @@
+services:
+  - type: web
+    name: supply-chain-copilot-backend
+    env: python
+    buildCommand: "pip install -r requirements.txt"
+    startCommand: "uvicorn main:app --host 0.0.0.0 --port $PORT"
+    rootDir: backend
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.10.0
+      - key: OPENAI_API_KEY
+        sync: false
+      - key: PINECONE_API_KEY
+        sync: false
+
+  - type: web
+    name: supply-chain-copilot-frontend
+    env: node
+    buildCommand: "npm install && npm run build"
+    startCommand: "npm run start"
+    rootDir: frontend
+    envVars:
+      - key: NODE_VERSION
+        value: 20.0.0
+      - key: NEXT_PUBLIC_API_URL
+        fromService:
+          type: web
+          name: supply-chain-copilot-backend
+          envVarKey: RENDER_EXTERNAL_URL

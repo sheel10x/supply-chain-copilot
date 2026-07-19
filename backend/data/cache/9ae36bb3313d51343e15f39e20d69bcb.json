@@ -1,0 +1,411 @@
+[
+  {
+    "pages": [
+      {
+        "page": 1,
+        "text": "Continental Steel Partners LLC\nRegional Flat-Rolled Steel Distribution & Processing\nProposal in Response to RFP RM-2026-014 \u2014 Meridian Autoparts Inc.\nSubmitted: June 24, 2026\n\nExecutive Summary\nContinental Steel Partners (CSP) appreciates the opportunity to bid on RFP RM-2026-014. CSP has served the\nMidwest automotive supply base for over 15 years from our Toledo, OH processing center. We propose to\nsupply the Cold-Rolled Steel coil volumes in full; for 5052 Aluminum sheet, we would source through our\naluminum distribution partner and pass through pricing with a fixed handling fee, as aluminum is not processed\nin-house at our facility.\n\nMaterials Offered & Specifications\n             Req #      Material             CSP Offering                                        Meets Spec?\n             REQ-01     CRS Coil             ASTM A1008 CS Type B, 0.8-2.5mm \u00b10.05mm             Partial (wider tolerance)\n             REQ-02     CRS Coil             Min. yield 270 MPa, width 900-1200mm                Partial (width capped at 1200mm)\n             REQ-03     Aluminum Sheet       5052-H32, 1.0-3.0mm \u00b10.05mm (via partner)           Yes\n             REQ-04     Aluminum Sheet       Mill finish, defect rate not specified              Not stated\n             REQ-05     Both                 MTC provided; steel Type 3.1, aluminum Type 2.2     Partial\n             REQ-06     Both                 Heat/lot traceability for steel only                Partial\n\nPricing\n Material                       Grade / Thickness Band     Price (USD/MT, FOB Toledo)           Pricing Basis\n CRS Coil                       0.8-1.5mm                  $905 / MT (base)                     Indexed: CRU CRC Index, adj. quarterly\n CRS Coil                       1.5-2.5mm                  $889 / MT (base)                     Indexed: CRU CRC Index, adj. quarterly\n Aluminum 5052                  All bands                  $3,340 / MT + $85/MT handling        Indexed: LME Aluminum + partner margin\n\nDelivery & Service Levels\nCSP targets a 95% on-time delivery rate and a standard lead time of 12 business days for steel; aluminum lead\ntimes run 15-18 business days due to the pass-through arrangement with our distribution partner, which\nexceeds the RFP's 10-day requirement. An expedite option is not currently offered for aluminum.\nDefect/non-conformance rate for steel has averaged 0.4% over the past year. General liability coverage is\n$3,000,000, below the RFP's stated minimum of $5,000,000; CSP is willing to discuss increasing coverage if\nawarded the contract. A formal written business continuity plan is in development and not yet finalized.\n\nCertifications & Compliance\nCSP holds IATF 16949 certification for its steel processing operations (cert #CSP-2291). ISO 14001\ncertification is not currently held; CSP has an internal environmental policy but no third-party certification.",
+        "md": "Continental Steel Partners LLC\n# Regional Flat-Rolled Steel Distribution &#x26; Processing\n\n# Proposal in Response to RFP RM-2026-014 \u2014 Meridian Autoparts Inc.\n\nSubmitted: June 24, 2026\n\n# Executive Summary\n\nContinental Steel Partners (CSP) appreciates the opportunity to bid on RFP RM-2026-014. CSP has served the Midwest automotive supply base for over 15 years from our Toledo, OH processing center. We propose to supply the Cold-Rolled Steel coil volumes in full; for 5052 Aluminum sheet, we would source through our aluminum distribution partner and pass through pricing with a fixed handling fee, as aluminum is not processed in-house at our facility.\n\n# Materials Offered &#x26; Specifications\n\n| Req #  | Material       | CSP Offering                                    | Meets Spec?                      |\n| ------ | -------------- | ----------------------------------------------- | -------------------------------- |\n| REQ-01 | CRS Coil       | ASTM A1008 CS Type B, 0.8-2.5mm \u00b10.05mm         | Partial (wider tolerance)        |\n| REQ-02 | CRS Coil       | Min. yield 270 MPa, width 900-1200mm            | Partial (width capped at 1200mm) |\n| REQ-03 | Aluminum Sheet | 5052-H32, 1.0-3.0mm \u00b10.05mm (via partner)       | Yes                              |\n| REQ-04 | Aluminum Sheet | Mill finish, defect rate not specified          | Not stated                       |\n| REQ-05 | Both           | MTC provided; steel Type 3.1, aluminum Type 2.2 | Partial                          |\n| REQ-06 | Both           | Heat/lot traceability for steel only            | Partial                          |\n\n# Pricing\n\n| Material      | Grade / Thickness Band | Price (USD/MT, FOB Toledo)    | Pricing Basis                          |\n| ------------- | ---------------------- | ----------------------------- | -------------------------------------- |\n| CRS Coil      | 0.8-1.5mm              | $905 / MT (base)              | Indexed: CRU CRC Index, adj. quarterly |\n| CRS Coil      | 1.5-2.5mm              | $889 / MT (base)              | Indexed: CRU CRC Index, adj. quarterly |\n| Aluminum 5052 | All bands              | $3,340 / MT + $85/MT handling | Indexed: LME Aluminum + partner margin |\n\n# Delivery &#x26; Service Levels\n\nCSP targets a 95% on-time delivery rate and a standard lead time of 12 business days for steel; aluminum lead times run 15-18 business days due to the pass-through arrangement with our distribution partner, which exceeds the RFP's 10-day requirement. An expedite option is not currently offered for aluminum. Defect/non-conformance rate for steel has averaged 0.4% over the past year. General liability coverage is $3,000,000, below the RFP's stated minimum of $5,000,000; CSP is willing to discuss increasing coverage if awarded the contract. A formal written business continuity plan is in development and not yet finalized.\n\n# Certifications &#x26; Compliance\n\nCSP holds IATF 16949 certification for its steel processing operations (cert #CSP-2291). ISO 14001 certification is not currently held; CSP has an internal environmental policy but no third-party certification.\n\n",
+        "images": [
+          {
+            "name": "page_1.jpg",
+            "height": 792,
+            "width": 612,
+            "x": 0,
+            "y": 0,
+            "original_width": 1236,
+            "original_height": 1600,
+            "rotation": 0,
+            "type": "full_page_screenshot"
+          }
+        ],
+        "charts": [],
+        "items": [
+          {
+            "type": "text",
+            "md": "Continental Steel Partners LLC",
+            "value": "Continental Steel Partners LLC",
+            "bBox": {
+              "x": 60,
+              "y": 57.45,
+              "w": 261.9,
+              "h": 22.21,
+              "confidence": 0.7,
+              "label": "text"
+            }
+          },
+          {
+            "type": "heading",
+            "md": "# Regional Flat-Rolled Steel Distribution &#x26; Processing",
+            "value": "Regional Flat-Rolled Steel Distribution &x26; Processing",
+            "lvl": 1
+          },
+          {
+            "type": "heading",
+            "md": "# Proposal in Response to RFP RM-2026-014 \u2014 Meridian Autoparts Inc.",
+            "value": "Proposal in Response to RFP RM-2026-014 \u2014 Meridian Autoparts Inc.",
+            "lvl": 1,
+            "bBox": {
+              "x": 60,
+              "y": 105.87,
+              "w": 266.91,
+              "h": 9.94,
+              "confidence": 0.7,
+              "label": "heading"
+            }
+          },
+          {
+            "type": "text",
+            "md": "Submitted: June 24, 2026",
+            "value": "Submitted: June 24, 2026",
+            "bBox": {
+              "x": 60,
+              "y": 116.87,
+              "w": 96.87,
+              "h": 9.94,
+              "confidence": 0.7,
+              "label": "text"
+            }
+          },
+          {
+            "type": "heading",
+            "md": "# Executive Summary",
+            "value": "Executive Summary",
+            "lvl": 1,
+            "bBox": {
+              "x": 60,
+              "y": 156.14,
+              "w": 120.03,
+              "h": 15.78,
+              "confidence": 0.7,
+              "label": "heading"
+            }
+          },
+          {
+            "type": "text",
+            "md": "Continental Steel Partners (CSP) appreciates the opportunity to bid on RFP RM-2026-014. CSP has served the Midwest automotive supply base for over 15 years from our Toledo, OH processing center. We propose to supply the Cold-Rolled Steel coil volumes in full; for 5052 Aluminum sheet, we would source through our aluminum distribution partner and pass through pricing with a fixed handling fee, as aluminum is not processed in-house at our facility.",
+            "value": "Continental Steel Partners (CSP) appreciates the opportunity to bid on RFP RM-2026-014. CSP has served the Midwest automotive supply base for over 15 years from our Toledo, OH processing center. We propose to supply the Cold-Rolled Steel coil volumes in full; for 5052 Aluminum sheet, we would source through our aluminum distribution partner and pass through pricing with a fixed handling fee, as aluminum is not processed in-house at our facility.",
+            "bBox": {
+              "x": 60,
+              "y": 179.95,
+              "w": 492,
+              "h": 67.69,
+              "confidence": 0.7,
+              "label": "text"
+            }
+          },
+          {
+            "type": "heading",
+            "md": "# Materials Offered &#x26; Specifications",
+            "value": "Materials Offered &x26; Specifications",
+            "lvl": 1,
+            "bBox": {
+              "x": 145.4,
+              "y": 291.72,
+              "w": 32.12,
+              "h": 10.11,
+              "confidence": 0.7,
+              "label": "heading"
+            }
+          },
+          {
+            "type": "table",
+            "md": "| Req #  | Material       | CSP Offering                                    | Meets Spec?                      |\n| ------ | -------------- | ----------------------------------------------- | -------------------------------- |\n| REQ-01 | CRS Coil       | ASTM A1008 CS Type B, 0.8-2.5mm \u00b10.05mm         | Partial (wider tolerance)        |\n| REQ-02 | CRS Coil       | Min. yield 270 MPa, width 900-1200mm            | Partial (width capped at 1200mm) |\n| REQ-03 | Aluminum Sheet | 5052-H32, 1.0-3.0mm \u00b10.05mm (via partner)       | Yes                              |\n| REQ-04 | Aluminum Sheet | Mill finish, defect rate not specified          | Not stated                       |\n| REQ-05 | Both           | MTC provided; steel Type 3.1, aluminum Type 2.2 | Partial                          |\n| REQ-06 | Both           | Heat/lot traceability for steel only            | Partial                          |",
+            "rows": [
+              [
+                "Req #",
+                "Material",
+                "CSP Offering",
+                "Meets Spec?"
+              ],
+              [
+                "REQ-01",
+                "CRS Coil",
+                "ASTM A1008 CS Type B, 0.8-2.5mm \u00b10.05mm",
+                "Partial (wider tolerance)"
+              ],
+              [
+                "REQ-02",
+                "CRS Coil",
+                "Min. yield 270 MPa, width 900-1200mm",
+                "Partial (width capped at 1200mm)"
+              ],
+              [
+                "REQ-03",
+                "Aluminum Sheet",
+                "5052-H32, 1.0-3.0mm \u00b10.05mm (via partner)",
+                "Yes"
+              ],
+              [
+                "REQ-04",
+                "Aluminum Sheet",
+                "Mill finish, defect rate not specified",
+                "Not stated"
+              ],
+              [
+                "REQ-05",
+                "Both",
+                "MTC provided; steel Type 3.1, aluminum Type 2.2",
+                "Partial"
+              ],
+              [
+                "REQ-06",
+                "Both",
+                "Heat/lot traceability for steel only",
+                "Partial"
+              ]
+            ],
+            "isPerfectTable": true,
+            "csv": "\"Req #\",\"Material\",\"CSP Offering\",\"Meets Spec?\"\n\"REQ-01\",\"CRS Coil\",\"ASTM A1008 CS Type B, 0.8-2.5mm \u00b10.05mm\",\"Partial (wider tolerance)\"\n\"REQ-02\",\"CRS Coil\",\"Min. yield 270 MPa, width 900-1200mm\",\"Partial (width capped at 1200mm)\"\n\"REQ-03\",\"Aluminum Sheet\",\"5052-H32, 1.0-3.0mm \u00b10.05mm (via partner)\",\"Yes\"\n\"REQ-04\",\"Aluminum Sheet\",\"Mill finish, defect rate not specified\",\"Not stated\"\n\"REQ-05\",\"Both\",\"MTC provided; steel Type 3.1, aluminum Type 2.2\",\"Partial\"\n\"REQ-06\",\"Both\",\"Heat/lot traceability for steel only\",\"Partial\"",
+            "bBox": {
+              "x": 60,
+              "y": 207.95,
+              "w": 514.88,
+              "h": 311.85,
+              "confidence": 0.7,
+              "label": "table"
+            },
+            "parseConcerns": [
+              {
+                "type": "multi_table_page",
+                "details": "2 tables on page"
+              }
+            ]
+          },
+          {
+            "type": "heading",
+            "md": "# Pricing",
+            "value": "Pricing",
+            "lvl": 1,
+            "bBox": {
+              "x": 60,
+              "y": 442.14,
+              "w": 41.26,
+              "h": 15.78,
+              "confidence": 0.7,
+              "label": "heading"
+            }
+          },
+          {
+            "type": "table",
+            "md": "| Material      | Grade / Thickness Band | Price (USD/MT, FOB Toledo)    | Pricing Basis                          |\n| ------------- | ---------------------- | ----------------------------- | -------------------------------------- |\n| CRS Coil      | 0.8-1.5mm              | $905 / MT (base)              | Indexed: CRU CRC Index, adj. quarterly |\n| CRS Coil      | 1.5-2.5mm              | $889 / MT (base)              | Indexed: CRU CRC Index, adj. quarterly |\n| Aluminum 5052 | All bands              | $3,340 / MT + $85/MT handling | Indexed: LME Aluminum + partner margin |",
+            "rows": [
+              [
+                "Material",
+                "Grade / Thickness Band",
+                "Price (USD/MT, FOB Toledo)",
+                "Pricing Basis"
+              ],
+              [
+                "CRS Coil",
+                "0.8-1.5mm",
+                "$905 / MT (base)",
+                "Indexed: CRU CRC Index, adj. quarterly"
+              ],
+              [
+                "CRS Coil",
+                "1.5-2.5mm",
+                "$889 / MT (base)",
+                "Indexed: CRU CRC Index, adj. quarterly"
+              ],
+              [
+                "Aluminum 5052",
+                "All bands",
+                "$3,340 / MT + $85/MT handling",
+                "Indexed: LME Aluminum + partner margin"
+              ]
+            ],
+            "isPerfectTable": true,
+            "csv": "\"Material\",\"Grade / Thickness Band\",\"Price (USD/MT, FOB Toledo)\",\"Pricing Basis\"\n\"CRS Coil\",\"0.8-1.5mm\",\"$905 / MT (base)\",\"Indexed: CRU CRC Index, adj. quarterly\"\n\"CRS Coil\",\"1.5-2.5mm\",\"$889 / MT (base)\",\"Indexed: CRU CRC Index, adj. quarterly\"\n\"Aluminum 5052\",\"All bands\",\"$3,340 / MT + $85/MT handling\",\"Indexed: LME Aluminum + partner margin\"",
+            "bBox": {
+              "x": 60,
+              "y": 264.14,
+              "w": 538.15,
+              "h": 275.66,
+              "confidence": 0.7,
+              "label": "table"
+            },
+            "parseConcerns": [
+              {
+                "type": "multi_table_page",
+                "details": "2 tables on page"
+              }
+            ]
+          },
+          {
+            "type": "heading",
+            "md": "# Delivery &#x26; Service Levels",
+            "value": "Delivery &x26; Service Levels",
+            "lvl": 1
+          },
+          {
+            "type": "text",
+            "md": "CSP targets a 95% on-time delivery rate and a standard lead time of 12 business days for steel; aluminum lead times run 15-18 business days due to the pass-through arrangement with our distribution partner, which exceeds the RFP's 10-day requirement. An expedite option is not currently offered for aluminum. Defect/non-conformance rate for steel has averaged 0.4% over the past year. General liability coverage is $3,000,000, below the RFP's stated minimum of $5,000,000; CSP is willing to discuss increasing coverage if awarded the contract. A formal written business continuity plan is in development and not yet finalized.",
+            "value": "CSP targets a 95% on-time delivery rate and a standard lead time of 12 business days for steel; aluminum lead times run 15-18 business days due to the pass-through arrangement with our distribution partner, which exceeds the RFP's 10-day requirement. An expedite option is not currently offered for aluminum. Defect/non-conformance rate for steel has averaged 0.4% over the past year. General liability coverage is $3,000,000, below the RFP's stated minimum of $5,000,000; CSP is willing to discuss increasing coverage if awarded the contract. A formal written business continuity plan is in development and not yet finalized.",
+            "bBox": {
+              "x": 60,
+              "y": 583.95,
+              "w": 491.33,
+              "h": 81.69,
+              "confidence": 0.7,
+              "label": "text"
+            }
+          },
+          {
+            "type": "heading",
+            "md": "# Certifications &#x26; Compliance",
+            "value": "Certifications &x26; Compliance",
+            "lvl": 1
+          },
+          {
+            "type": "text",
+            "md": "CSP holds IATF 16949 certification for its steel processing operations (cert #CSP-2291). ISO 14001 certification is not currently held; CSP has an internal environmental policy but no third-party certification.",
+            "value": "CSP holds IATF 16949 certification for its steel processing operations (cert #CSP-2291). ISO 14001 certification is not currently held; CSP has an internal environmental policy but no third-party certification.",
+            "bBox": {
+              "x": 60,
+              "y": 705.95,
+              "w": 462.96,
+              "h": 25.69,
+              "confidence": 0.7,
+              "label": "text"
+            }
+          }
+        ],
+        "status": "OK",
+        "originalOrientationAngle": 0,
+        "links": [],
+        "width": 612,
+        "height": 792,
+        "triggeredAutoMode": false,
+        "parsingMode": "accurate",
+        "structuredData": null,
+        "noStructuredContent": false,
+        "noTextContent": false,
+        "pageHeaderMarkdown": "Continental Steel Partners LLC",
+        "pageFooterMarkdown": "",
+        "printedPageNumber": "",
+        "slideSpeakerNotes": null,
+        "slideSectionName": null,
+        "confidence": 1,
+        "costOptimized": false
+      },
+      {
+        "page": 2,
+        "text": "Conflict minerals reporting (Dodd-Frank 1502) is completed annually for direct-sourced steel; CSP has not yet\nobtained conflict minerals disclosures from its aluminum distribution partner and would need to follow up on this\nduring contract negotiation. Steel is melted and poured domestically (Ohio, Indiana, and Pennsylvania mills,\nvaries by lot).\n\nPayment & Commercial Terms\nStandard payment terms: Net 45 from invoice date. No early-payment discount is currently offered. CSP does\nnot offer a formal VMI program but is open to a bi-weekly min/max replenishment model with advance notice, to\nbe scoped separately if awarded.\n\nContact: sales@continentalsteelpartners-example.com | Reference: CSP-Q2-2026-RFP | Valid 60 days from submission.",
+        "md": "# Conflict minerals reporting (Dodd-Frank 1502)\n\nConflict minerals reporting (Dodd-Frank 1502) is completed annually for direct-sourced steel; CSP has not yet obtained conflict minerals disclosures from its aluminum distribution partner and would need to follow up on this during contract negotiation. Steel is melted and poured domestically (Ohio, Indiana, and Pennsylvania mills, varies by lot).\n\n# Payment &#x26; Commercial Terms\n\nStandard payment terms: Net 45 from invoice date. No early-payment discount is currently offered. CSP does not offer a formal VMI program but is open to a bi-weekly min/max replenishment model with advance notice, to be scoped separately if awarded.\n\n# Contact\n\nsales@continentalsteelpartners-example.com\n\n# Reference\n\nCSP-Q2-2026-RFP\n\n# Valid\n\n60 days from submission.",
+        "images": [
+          {
+            "name": "page_2.jpg",
+            "height": 792,
+            "width": 612,
+            "x": 0,
+            "y": 0,
+            "original_width": 1236,
+            "original_height": 1600,
+            "rotation": 0,
+            "type": "full_page_screenshot"
+          }
+        ],
+        "charts": [],
+        "items": [
+          {
+            "type": "heading",
+            "md": "# Conflict minerals reporting (Dodd-Frank 1502)",
+            "value": "Conflict minerals reporting (Dodd-Frank 1502)",
+            "lvl": 1
+          },
+          {
+            "type": "text",
+            "md": "Conflict minerals reporting (Dodd-Frank 1502) is completed annually for direct-sourced steel; CSP has not yet obtained conflict minerals disclosures from its aluminum distribution partner and would need to follow up on this during contract negotiation. Steel is melted and poured domestically (Ohio, Indiana, and Pennsylvania mills, varies by lot).",
+            "value": "Conflict minerals reporting (Dodd-Frank 1502) is completed annually for direct-sourced steel; CSP has not yet obtained conflict minerals disclosures from its aluminum distribution partner and would need to follow up on this during contract negotiation. Steel is melted and poured domestically (Ohio, Indiana, and Pennsylvania mills, varies by lot).",
+            "bBox": {
+              "x": 60,
+              "y": 56.95,
+              "w": 491.86,
+              "h": 53.69,
+              "confidence": 0.7,
+              "label": "text"
+            }
+          },
+          {
+            "type": "heading",
+            "md": "# Payment &#x26; Commercial Terms",
+            "value": "Payment &x26; Commercial Terms",
+            "lvl": 1
+          },
+          {
+            "type": "text",
+            "md": "Standard payment terms: Net 45 from invoice date. No early-payment discount is currently offered. CSP does not offer a formal VMI program but is open to a bi-weekly min/max replenishment model with advance notice, to be scoped separately if awarded.",
+            "value": "Standard payment terms: Net 45 from invoice date. No early-payment discount is currently offered. CSP does not offer a formal VMI program but is open to a bi-weekly min/max replenishment model with advance notice, to be scoped separately if awarded.",
+            "bBox": {
+              "x": 60,
+              "y": 150.95,
+              "w": 492,
+              "h": 39.69,
+              "confidence": 0.7,
+              "label": "text"
+            }
+          },
+          {
+            "type": "heading",
+            "md": "# Contact",
+            "value": "Contact",
+            "lvl": 1
+          },
+          {
+            "type": "text",
+            "md": "sales@continentalsteelpartners-example.com",
+            "value": "sales@continentalsteelpartners-example.com"
+          },
+          {
+            "type": "heading",
+            "md": "# Reference",
+            "value": "Reference",
+            "lvl": 1
+          },
+          {
+            "type": "text",
+            "md": "CSP-Q2-2026-RFP",
+            "value": "CSP-Q2-2026-RFP"
+          },
+          {
+            "type": "heading",
+            "md": "# Valid",
+            "value": "Valid",
+            "lvl": 1
+          },
+          {
+            "type": "text",
+            "md": "60 days from submission.",
+            "value": "60 days from submission."
+          }
+        ],
+        "status": "OK",
+        "originalOrientationAngle": 0,
+        "links": [],
+        "width": 612,
+        "height": 792,
+        "triggeredAutoMode": false,
+        "parsingMode": "accurate",
+        "structuredData": null,
+        "noStructuredContent": false,
+        "noTextContent": false,
+        "pageHeaderMarkdown": "",
+        "pageFooterMarkdown": "",
+        "printedPageNumber": "",
+        "slideSpeakerNotes": null,
+        "slideSectionName": null,
+        "confidence": 0.941,
+        "costOptimized": false
+      }
+    ],
+    "job_metadata": {
+      "credits_used": 0,
+      "job_credits_usage": 0,
+      "job_pages": 2,
+      "job_auto_mode_triggered_pages": 0,
+      "job_is_cache_hit": false
+    },
+    "job_id": "d589798c-05d4-4f55-8fee-c385cce6a856",
+    "file_path": "C:\\Users\\Admin\\AppData\\Local\\Temp\\tmprk93vc62.pdf"
+  }
+]

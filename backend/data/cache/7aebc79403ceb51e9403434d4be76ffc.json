@@ -1,0 +1,813 @@
+[
+  {
+    "pages": [
+      {
+        "page": 1,
+        "text": "                                            REQUEST FOR QUOTATION (RFQ)\n                             Supply Chain Procurement Document \u2014 Sample Filled Example\n\n RFQ Number                  RFQ-2026-0142                                                 Date Issued       19/07/2026\n Buyer / Company             Meridian Auto Components Ltd.                                 Response Due      02/08/2026\n Buyer Contact               Anjali Rao, Procurement Manager,                              Currency          INR\n                             anjali.rao@meridianauto.in, +91 98765 43210\n Delivery Location           Plot 14, Sector 8 Industrial Area, Pune 411018                Validity Req.     90 days\n                             (Incoterm: DAP)\n Supplier / Manufacturer     Vantage Steel & Alloys Pvt. Ltd., MIDC Chakan,                Supplier          Rohit\n                             Pune, Maharashtra                                             Contact           Deshmukh\n\n1. Purpose\nMeridian Auto Components Ltd. (\"Buyer\") invites Vantage Steel & Alloys Pvt. Ltd. (\"Supplier\") to submit a firm quotation for\nthe supply of the goods described in this Request for Quotation (\"RFQ\"). This document is not a purchase order and does not\nobligate the Buyer to award any contract.\n\n2. Scope of Supply\nThe Supplier shall quote for the following items, meeting the specifications, quantities, and delivery requirements stated below.\n  Item   Description / Specification             Qty     UoM    Unit Price                  Total Price      Lead Time\n   #                                                              (INR)                        (INR)\n   1     Cold-rolled steel bracket, Grade IS    5,000    pcs            42.00               2,10,000          4 weeks\n         2062, per drawing DWG-4471-A\n   2     Deep groove ball bearing 6205-         2,500    pcs           185.00               4,62,500          3 weeks\n         2RS, SKF-equivalent\n   3     Hex socket head cap screw              20,00    pcs             6.50               1,30,000          2 weeks\n         M8x25, Class 10.9, zinc plated           0\n   4     Aluminium extrusion profile            1,200    pcs           310.00               3,72,000          5 weeks\n         40x40 T-slot, 6063-T5, 2m length\nTechnical drawings and datasheets are attached as Annex A (drawing references cited above).\n\n3. Technical Requirements & Quality Standards\n  \u2022     Materials/components must conform to specification: IS 2062 (steel), ISO 15 (bearings), ISO 4762 (fasteners)\n  \u2022     Supplier must provide Certificate of Conformance / Material Test Certificate with each shipment\n  \u2022     Applicable quality system requirement: ISO 9001:2015\n  \u2022     Samples must be submitted within 10 days of RFQ response for approval\n\n4. Commercial Terms Requested\n  1.    Unit price and total price per line item in INR, DAP Pune\n  2.    Payment terms offered: Net 45 from date of delivery\n  3.    Minimum Order Quantity (MOQ) and price breaks at higher volumes, if any\n  4.    Lead time from Purchase Order date to delivery, per line item (as quoted above)",
+        "md": "\n# REQUEST FOR QUOTATION (RFQ)\n\n# Supply Chain Procurement Document \u2014 Sample Filled Example\n\nRFQ Number: RFQ-2026-0142\n\nDate Issued: 19/07/2026\n\nBuyer / Company: Meridian Auto Components Ltd.\n\nResponse Due: 02/08/2026\n\nBuyer Contact: Anjali Rao, Procurement Manager\n\nEmail: anjali.rao@meridianauto.in\n\nPhone: +91 98765 43210\n\nDelivery Location: Plot 14, Sector 8 Industrial Area, Pune 411018\n\nValidity Req.: 90 days\n\n(Incoterm: DAP)\n\nSupplier / Manufacturer: Vantage Steel &#x26; Alloys Pvt. Ltd., MIDC Chakan, Pune, Maharashtra\n\nSupplier Contact: Rohit Deshmukh\n\n# 1. Purpose\n\nMeridian Auto Components Ltd. (\"Buyer\") invites Vantage Steel &#x26; Alloys Pvt. Ltd. (\"Supplier\") to submit a firm quotation for the supply of the goods described in this Request for Quotation (\"RFQ\"). This document is not a purchase order and does not obligate the Buyer to award any contract.\n\n# 2. Scope of Supply\n\nThe Supplier shall quote for the following items, meeting the specifications, quantities, and delivery requirements stated below.\n\n| Item # | Description / Specification                                      | Qty   | UoM | Unit Price (INR) | Total Price (INR) | Lead Time |\n| ------ | ---------------------------------------------------------------- | ----- | --- | ---------------- | ----------------- | --------- |\n| 1      | Cold-rolled steel bracket, Grade IS 2062, per drawing DWG-4471-A | 5,000 | pcs | 42.00            | 2,10,000          | 4 weeks   |\n| 2      | Deep groove ball bearing 6205-2RS, SKF-equivalent                | 2,500 | pcs | 185.00           | 4,62,500          | 3 weeks   |\n| 3      | Hex socket head cap screw M8x25, Class 10.9, zinc plated         | 2,000 | pcs | 6.50             | 1,30,000          | 2 weeks   |\n| 4      | Aluminium extrusion profile 40x40 T-slot, 6063-T5, 2m length     | 1,200 | pcs | 310.00           | 3,72,000          | 5 weeks   |\n\nTechnical drawings and datasheets are attached as Annex A (drawing references cited above).\n\n# 3. Technical Requirements &#x26; Quality Standards\n\n- Materials/components must conform to specification: IS 2062 (steel), ISO 15 (bearings), ISO 4762 (fasteners)\n- Supplier must provide Certificate of Conformance / Material Test Certificate with each shipment\n- Applicable quality system requirement: ISO 9001:2015\n- Samples must be submitted within 10 days of RFQ response for approval\n\n# 4. Commercial Terms Requested\n\n1. Unit price and total price per line item in INR, DAP Pune\n2. Payment terms offered: Net 45 from date of delivery\n3. Minimum Order Quantity (MOQ) and price breaks at higher volumes, if any\n4. Lead time from Purchase Order date to delivery, per line item (as quoted above)",
+        "images": [
+          {
+            "name": "page_1.jpg",
+            "height": 792,
+            "width": 612,
+            "x": 0,
+            "y": 0,
+            "original_width": 1236,
+            "original_height": 1600,
+            "rotation": 0,
+            "type": "full_page_screenshot"
+          }
+        ],
+        "charts": [],
+        "items": [
+          {
+            "type": "heading",
+            "md": "# REQUEST FOR QUOTATION (RFQ)",
+            "value": "REQUEST FOR QUOTATION (RFQ)",
+            "lvl": 1,
+            "bBox": {
+              "x": 139.7,
+              "y": 50.88,
+              "w": 332.54,
+              "h": 22.14,
+              "confidence": 0.7,
+              "label": "heading"
+            }
+          },
+          {
+            "type": "heading",
+            "md": "# Supply Chain Procurement Document \u2014 Sample Filled Example",
+            "value": "Supply Chain Procurement Document \u2014 Sample Filled Example",
+            "lvl": 1,
+            "bBox": {
+              "x": 162.75,
+              "y": 76.45,
+              "w": 285.41,
+              "h": 12.18,
+              "confidence": 0.7,
+              "label": "heading"
+            }
+          },
+          {
+            "type": "text",
+            "md": "RFQ Number: RFQ-2026-0142",
+            "value": "RFQ Number: RFQ-2026-0142",
+            "bBox": {
+              "x": 55.35,
+              "y": 105.59,
+              "w": 206.1,
+              "h": 11.07,
+              "confidence": 0.7,
+              "label": "text"
+            }
+          },
+          {
+            "type": "text",
+            "md": "Date Issued: 19/07/2026",
+            "value": "Date Issued: 19/07/2026",
+            "bBox": {
+              "x": 405.3,
+              "y": 105.59,
+              "w": 115.59,
+              "h": 11.07,
+              "confidence": 0.7,
+              "label": "text"
+            }
+          },
+          {
+            "type": "text",
+            "md": "Buyer / Company: Meridian Auto Components Ltd.",
+            "value": "Buyer / Company: Meridian Auto Components Ltd.",
+            "bBox": {
+              "x": 55.35,
+              "y": 125.64,
+              "w": 270.99,
+              "h": 11.07,
+              "confidence": 0.7,
+              "label": "text"
+            }
+          },
+          {
+            "type": "text",
+            "md": "Response Due: 02/08/2026",
+            "value": "Response Due: 02/08/2026",
+            "bBox": {
+              "x": 405.3,
+              "y": 125.64,
+              "w": 115.59,
+              "h": 11.07,
+              "confidence": 0.7,
+              "label": "text"
+            }
+          },
+          {
+            "type": "text",
+            "md": "Buyer Contact: Anjali Rao, Procurement Manager",
+            "value": "Buyer Contact: Anjali Rao, Procurement Manager",
+            "bBox": {
+              "x": 55.35,
+              "y": 145.69,
+              "w": 62.45,
+              "h": 11.07,
+              "confidence": 0.7,
+              "label": "text"
+            }
+          },
+          {
+            "type": "text",
+            "md": "Email: anjali.rao@meridianauto.in",
+            "value": "Email: anjali.rao@meridianauto.in"
+          },
+          {
+            "type": "text",
+            "md": "Phone: +91 98765 43210",
+            "value": "Phone: +91 98765 43210",
+            "bBox": {
+              "x": 65.35,
+              "y": 405.49,
+              "w": 189.95,
+              "h": 105.87,
+              "confidence": 0.7,
+              "label": "text"
+            }
+          },
+          {
+            "type": "text",
+            "md": "Delivery Location: Plot 14, Sector 8 Industrial Area, Pune 411018",
+            "value": "Delivery Location: Plot 14, Sector 8 Industrial Area, Pune 411018",
+            "bBox": {
+              "x": 55.35,
+              "y": 177.29,
+              "w": 329.29,
+              "h": 11.07,
+              "confidence": 0.7,
+              "label": "text"
+            }
+          },
+          {
+            "type": "text",
+            "md": "Validity Req.: 90 days",
+            "value": "Validity Req.: 90 days",
+            "bBox": {
+              "x": 405.3,
+              "y": 177.29,
+              "w": 100.87,
+              "h": 11.07,
+              "confidence": 0.7,
+              "label": "text"
+            }
+          },
+          {
+            "type": "text",
+            "md": "(Incoterm: DAP)",
+            "value": "(Incoterm: DAP)",
+            "bBox": {
+              "x": 195.35,
+              "y": 188.84,
+              "w": 67.97,
+              "h": 11.07,
+              "confidence": 0.7,
+              "label": "text"
+            }
+          },
+          {
+            "type": "text",
+            "md": "Supplier / Manufacturer: Vantage Steel &#x26; Alloys Pvt. Ltd., MIDC Chakan, Pune, Maharashtra",
+            "value": "Supplier / Manufacturer: Vantage Steel &#x26; Alloys Pvt. Ltd., MIDC Chakan, Pune, Maharashtra",
+            "bBox": {
+              "x": 55.35,
+              "y": 208.89,
+              "w": 214.91,
+              "h": 239.27,
+              "confidence": 0.7,
+              "label": "text"
+            }
+          },
+          {
+            "type": "text",
+            "md": "Supplier Contact: Rohit Deshmukh",
+            "value": "Supplier Contact: Rohit Deshmukh",
+            "bBox": {
+              "x": 405.3,
+              "y": 208.83,
+              "w": 109.03,
+              "h": 22.68,
+              "confidence": 0.7,
+              "label": "text"
+            }
+          },
+          {
+            "type": "heading",
+            "md": "# 1. Purpose",
+            "value": "1. Purpose",
+            "lvl": 1,
+            "bBox": {
+              "x": 50.1,
+              "y": 251.62,
+              "w": 81.71,
+              "h": 17.86,
+              "confidence": 0.7,
+              "label": "heading"
+            }
+          },
+          {
+            "type": "text",
+            "md": "Meridian Auto Components Ltd. (\"Buyer\") invites Vantage Steel &#x26; Alloys Pvt. Ltd. (\"Supplier\") to submit a firm quotation for the supply of the goods described in this Request for Quotation (\"RFQ\"). This document is not a purchase order and does not obligate the Buyer to award any contract.",
+            "value": "Meridian Auto Components Ltd. (\"Buyer\") invites Vantage Steel &#x26; Alloys Pvt. Ltd. (\"Supplier\") to submit a firm quotation for the supply of the goods described in this Request for Quotation (\"RFQ\"). This document is not a purchase order and does not obligate the Buyer to award any contract.",
+            "bBox": {
+              "x": 50.1,
+              "y": 125.64,
+              "w": 502.42,
+              "h": 322.52,
+              "confidence": 0.7,
+              "label": "text"
+            }
+          },
+          {
+            "type": "heading",
+            "md": "# 2. Scope of Supply",
+            "value": "2. Scope of Supply",
+            "lvl": 1,
+            "bBox": {
+              "x": 50.1,
+              "y": 327.22,
+              "w": 142.94,
+              "h": 17.86,
+              "confidence": 0.7,
+              "label": "heading"
+            }
+          },
+          {
+            "type": "text",
+            "md": "The Supplier shall quote for the following items, meeting the specifications, quantities, and delivery requirements stated below.",
+            "value": "The Supplier shall quote for the following items, meeting the specifications, quantities, and delivery requirements stated below.",
+            "bBox": {
+              "x": 50.1,
+              "y": 353.04,
+              "w": 509.91,
+              "h": 11.07,
+              "confidence": 0.7,
+              "label": "text"
+            }
+          },
+          {
+            "type": "table",
+            "md": "| Item # | Description / Specification                                      | Qty   | UoM | Unit Price (INR) | Total Price (INR) | Lead Time |\n| ------ | ---------------------------------------------------------------- | ----- | --- | ---------------- | ----------------- | --------- |\n| 1      | Cold-rolled steel bracket, Grade IS 2062, per drawing DWG-4471-A | 5,000 | pcs | 42.00            | 2,10,000          | 4 weeks   |\n| 2      | Deep groove ball bearing 6205-2RS, SKF-equivalent                | 2,500 | pcs | 185.00           | 4,62,500          | 3 weeks   |\n| 3      | Hex socket head cap screw M8x25, Class 10.9, zinc plated         | 2,000 | pcs | 6.50             | 1,30,000          | 2 weeks   |\n| 4      | Aluminium extrusion profile 40x40 T-slot, 6063-T5, 2m length     | 1,200 | pcs | 310.00           | 3,72,000          | 5 weeks   |",
+            "rows": [
+              [
+                "Item #",
+                "Description / Specification",
+                "Qty",
+                "UoM",
+                "Unit Price (INR)",
+                "Total Price (INR)",
+                "Lead Time"
+              ],
+              [
+                "1",
+                "Cold-rolled steel bracket, Grade IS 2062, per drawing DWG-4471-A",
+                "5,000",
+                "pcs",
+                "42.00",
+                "2,10,000",
+                "4 weeks"
+              ],
+              [
+                "2",
+                "Deep groove ball bearing 6205-2RS, SKF-equivalent",
+                "2,500",
+                "pcs",
+                "185.00",
+                "4,62,500",
+                "3 weeks"
+              ],
+              [
+                "3",
+                "Hex socket head cap screw M8x25, Class 10.9, zinc plated",
+                "2,000",
+                "pcs",
+                "6.50",
+                "1,30,000",
+                "2 weeks"
+              ],
+              [
+                "4",
+                "Aluminium extrusion profile 40x40 T-slot, 6063-T5, 2m length",
+                "1,200",
+                "pcs",
+                "310.00",
+                "3,72,000",
+                "5 weeks"
+              ]
+            ],
+            "isPerfectTable": true,
+            "csv": "\"Item #\",\"Description / Specification\",\"Qty\",\"UoM\",\"Unit Price (INR)\",\"Total Price (INR)\",\"Lead Time\"\n\"1\",\"Cold-rolled steel bracket, Grade IS 2062, per drawing DWG-4471-A\",\"5,000\",\"pcs\",\"42.00\",\"2,10,000\",\"4 weeks\"\n\"2\",\"Deep groove ball bearing 6205-2RS, SKF-equivalent\",\"2,500\",\"pcs\",\"185.00\",\"4,62,500\",\"3 weeks\"\n\"3\",\"Hex socket head cap screw M8x25, Class 10.9, zinc plated\",\"2,000\",\"pcs\",\"6.50\",\"1,30,000\",\"2 weeks\"\n\"4\",\"Aluminium extrusion profile 40x40 T-slot, 6063-T5, 2m length\",\"1,200\",\"pcs\",\"310.00\",\"3,72,000\",\"5 weeks\"",
+            "bBox": {
+              "x": 50.1,
+              "y": 105.59,
+              "w": 470.79,
+              "h": 633.47,
+              "confidence": 0.7,
+              "label": "table"
+            }
+          },
+          {
+            "type": "text",
+            "md": "Technical drawings and datasheets are attached as Annex A (drawing references cited above).",
+            "value": "Technical drawings and datasheets are attached as Annex A (drawing references cited above).",
+            "bBox": {
+              "x": 50.1,
+              "y": 533.83,
+              "w": 340.9,
+              "h": 9.96,
+              "confidence": 0.7,
+              "label": "text"
+            }
+          },
+          {
+            "type": "heading",
+            "md": "# 3. Technical Requirements &#x26; Quality Standards",
+            "value": "3. Technical Requirements &x26; Quality Standards",
+            "lvl": 1,
+            "bBox": {
+              "x": 58.1,
+              "y": 437.09,
+              "w": 12.25,
+              "h": 286.42,
+              "confidence": 0.7,
+              "label": "heading"
+            }
+          },
+          {
+            "type": "text",
+            "md": "- Materials/components must conform to specification: IS 2062 (steel), ISO 15 (bearings), ISO 4762 (fasteners)\n- Supplier must provide Certificate of Conformance / Material Test Certificate with each shipment\n- Applicable quality system requirement: ISO 9001:2015\n- Samples must be submitted within 10 days of RFQ response for approval",
+            "value": "- Materials/components must conform to specification: IS 2062 (steel), ISO 15 (bearings), ISO 4762 (fasteners)\n- Supplier must provide Certificate of Conformance / Material Test Certificate with each shipment\n- Applicable quality system requirement: ISO 9001:2015\n- Samples must be submitted within 10 days of RFQ response for approval",
+            "bBox": {
+              "x": 71.1,
+              "y": 585.19,
+              "w": 439.79,
+              "h": 54.72,
+              "confidence": 0.7,
+              "label": "text"
+            }
+          },
+          {
+            "type": "heading",
+            "md": "# 4. Commercial Terms Requested",
+            "value": "4. Commercial Terms Requested",
+            "lvl": 1,
+            "bBox": {
+              "x": 50.1,
+              "y": 655.52,
+              "w": 247.9,
+              "h": 17.86,
+              "confidence": 0.7,
+              "label": "heading"
+            }
+          },
+          {
+            "type": "text",
+            "md": "1. Unit price and total price per line item in INR, DAP Pune\n2. Payment terms offered: Net 45 from date of delivery\n3. Minimum Order Quantity (MOQ) and price breaks at higher volumes, if any\n4. Lead time from Purchase Order date to delivery, per line item (as quoted above)",
+            "value": "1. Unit price and total price per line item in INR, DAP Pune\n2. Payment terms offered: Net 45 from date of delivery\n3. Minimum Order Quantity (MOQ) and price breaks at higher volumes, if any\n4. Lead time from Purchase Order date to delivery, per line item (as quoted above)",
+            "bBox": {
+              "x": 58.1,
+              "y": 681.34,
+              "w": 333.14,
+              "h": 57.72,
+              "confidence": 0.7,
+              "label": "text"
+            }
+          }
+        ],
+        "status": "OK",
+        "originalOrientationAngle": 0,
+        "links": [],
+        "width": 612,
+        "height": 792,
+        "triggeredAutoMode": false,
+        "parsingMode": "accurate",
+        "structuredData": null,
+        "noStructuredContent": false,
+        "noTextContent": false,
+        "pageHeaderMarkdown": "\n# REQUEST FOR QUOTATION (RFQ)\n\n# Supply Chain Procurement Document \u2014 Sample Filled Example\n\n",
+        "pageFooterMarkdown": "",
+        "printedPageNumber": "",
+        "slideSpeakerNotes": null,
+        "slideSectionName": null,
+        "confidence": 0.987,
+        "costOptimized": false
+      },
+      {
+        "page": 2,
+        "text": " 5.    Freight, insurance, duties, and any additional costs itemized separately\n 6.    Quotation validity period: minimum 90 days from submission\n 7.    Warranty period: minimum 12 months from delivery\n\n5. Submission Instructions\n \u2022     Quotations must be submitted via email to procurement@meridianauto.in no later than 02/08/2026, 17:00 IST\n \u2022     Late submissions will not be considered\n \u2022     Questions must be submitted in writing by 26/07/2026; answers will be shared with all bidders\n \u2022     Supplier must confirm acceptance of the Terms & Conditions in Section 7 when submitting a response\n\n6. Evaluation Criteria\nQuotations will be evaluated on a combination of the following factors (Buyer reserves the right to weight these at its\ndiscretion):\n \u2022     Total landed cost (price, freight, duties)\n \u2022     Lead time and delivery reliability\n \u2022     Technical compliance with specifications\n \u2022     Quality certifications and past performance / references\n \u2022     Payment terms and financial stability\n \u2022     Supplier capacity and scalability\n\n7. Terms & Conditions\n7.1 No Obligation\nThis RFQ is issued solely to solicit pricing information. It does not constitute an offer, and the Buyer is under no obligation to\naward a purchase order to any Supplier responding to this RFQ.\n7.2 Confidentiality\nAll information contained in this RFQ, and any information exchanged during the RFQ process, is confidential and shall not be\ndisclosed to third parties without prior written consent of the Buyer.\n7.3 Costs of Response\nThe Supplier shall bear all costs associated with preparing and submitting a response to this RFQ. The Buyer shall not be liable\nfor any such costs.\n7.4 Accuracy of Information\nThe Supplier warrants that all information, pricing, and representations provided in its quotation are true, accurate, and\ncomplete to the best of its knowledge.\n7.5 Governing Law\nThis RFQ and any resulting purchase order shall be governed by the laws of India, with courts in Pune, Maharashtra having\nexclusive jurisdiction.\n7.6 Award & Contract Formation\nA binding contract shall come into existence only upon the Buyer's issuance of a formal Purchase Order or execution of a\ndefinitive supply agreement referencing this RFQ and the Supplier's accepted quotation.",
+        "md": "# 5. Submission Instructions\n\n- Quotations must be submitted via email to procurement@meridianauto.in no later than 02/08/2026, 17:00 IST\n- Late submissions will not be considered\n- Questions must be submitted in writing by 26/07/2026; answers will be shared with all bidders\n- Supplier must confirm acceptance of the Terms &#x26; Conditions in Section 7 when submitting a response\n\n# 6. Evaluation Criteria\n\nQuotations will be evaluated on a combination of the following factors (Buyer reserves the right to weight these at its discretion):\n\n- Total landed cost (price, freight, duties)\n- Lead time and delivery reliability\n- Technical compliance with specifications\n- Quality certifications and past performance / references\n- Payment terms and financial stability\n- Supplier capacity and scalability\n\n# 7. Terms &#x26; Conditions\n\n# 7.1 No Obligation\n\nThis RFQ is issued solely to solicit pricing information. It does not constitute an offer, and the Buyer is under no obligation to award a purchase order to any Supplier responding to this RFQ.\n\n# 7.2 Confidentiality\n\nAll information contained in this RFQ, and any information exchanged during the RFQ process, is confidential and shall not be disclosed to third parties without prior written consent of the Buyer.\n\n# 7.3 Costs of Response\n\nThe Supplier shall bear all costs associated with preparing and submitting a response to this RFQ. The Buyer shall not be liable for any such costs.\n\n# 7.4 Accuracy of Information\n\nThe Supplier warrants that all information, pricing, and representations provided in its quotation are true, accurate, and complete to the best of its knowledge.\n\n# 7.5 Governing Law\n\nThis RFQ and any resulting purchase order shall be governed by the laws of India, with courts in Pune, Maharashtra having exclusive jurisdiction.\n\n# 7.6 Award &#x26; Contract Formation\n\nA binding contract shall come into existence only upon the Buyer's issuance of a formal Purchase Order or execution of a definitive supply agreement referencing this RFQ and the Supplier's accepted quotation.",
+        "images": [
+          {
+            "name": "page_2.jpg",
+            "height": 792,
+            "width": 612,
+            "x": 0,
+            "y": 0,
+            "original_width": 1236,
+            "original_height": 1600,
+            "rotation": 0,
+            "type": "full_page_screenshot"
+          }
+        ],
+        "charts": [],
+        "items": [
+          {
+            "type": "heading",
+            "md": "# 5. Submission Instructions",
+            "value": "5. Submission Instructions",
+            "lvl": 1,
+            "bBox": {
+              "x": 50.1,
+              "y": 108.22,
+              "w": 204.24,
+              "h": 17.86,
+              "confidence": 0.7,
+              "label": "heading"
+            }
+          },
+          {
+            "type": "text",
+            "md": "- Quotations must be submitted via email to procurement@meridianauto.in no later than 02/08/2026, 17:00 IST\n- Late submissions will not be considered\n- Questions must be submitted in writing by 26/07/2026; answers will be shared with all bidders\n- Supplier must confirm acceptance of the Terms &#x26; Conditions in Section 7 when submitting a response",
+            "value": "- Quotations must be submitted via email to procurement@meridianauto.in no later than 02/08/2026, 17:00 IST\n- Late submissions will not be considered\n- Questions must be submitted in writing by 26/07/2026; answers will be shared with all bidders\n- Supplier must confirm acceptance of the Terms &#x26; Conditions in Section 7 when submitting a response",
+            "bBox": {
+              "x": 71.1,
+              "y": 134.04,
+              "w": 440.12,
+              "h": 40.17,
+              "confidence": 0.7,
+              "label": "text"
+            }
+          },
+          {
+            "type": "heading",
+            "md": "# 6. Evaluation Criteria",
+            "value": "6. Evaluation Criteria",
+            "lvl": 1,
+            "bBox": {
+              "x": 50.1,
+              "y": 204.37,
+              "w": 159.1,
+              "h": 17.86,
+              "confidence": 0.7,
+              "label": "heading"
+            }
+          },
+          {
+            "type": "text",
+            "md": "Quotations will be evaluated on a combination of the following factors (Buyer reserves the right to weight these at its discretion):",
+            "value": "Quotations will be evaluated on a combination of the following factors (Buyer reserves the right to weight these at its discretion):",
+            "bBox": {
+              "x": 50.1,
+              "y": 230.19,
+              "w": 471.62,
+              "h": 22.62,
+              "confidence": 0.7,
+              "label": "text"
+            }
+          },
+          {
+            "type": "text",
+            "md": "- Total landed cost (price, freight, duties)\n- Lead time and delivery reliability\n- Technical compliance with specifications\n- Quality certifications and past performance / references\n- Payment terms and financial stability\n- Supplier capacity and scalability",
+            "value": "- Total landed cost (price, freight, duties)\n- Lead time and delivery reliability\n- Technical compliance with specifications\n- Quality certifications and past performance / references\n- Payment terms and financial stability\n- Supplier capacity and scalability",
+            "bBox": {
+              "x": 71.1,
+              "y": 259.29,
+              "w": 221.85,
+              "h": 83.82,
+              "confidence": 0.7,
+              "label": "text"
+            }
+          },
+          {
+            "type": "heading",
+            "md": "# 7. Terms &#x26; Conditions",
+            "value": "7. Terms &x26; Conditions",
+            "lvl": 1,
+            "bBox": {
+              "x": 58.1,
+              "y": 81.54,
+              "w": 7.5,
+              "h": 11.07,
+              "confidence": 0.7,
+              "label": "heading"
+            }
+          },
+          {
+            "type": "heading",
+            "md": "# 7.1 No Obligation",
+            "value": "7.1 No Obligation",
+            "lvl": 1,
+            "bBox": {
+              "x": 50.1,
+              "y": 387.04,
+              "w": 106.76,
+              "h": 14.51,
+              "confidence": 0.7,
+              "label": "heading"
+            }
+          },
+          {
+            "type": "text",
+            "md": "This RFQ is issued solely to solicit pricing information. It does not constitute an offer, and the Buyer is under no obligation to award a purchase order to any Supplier responding to this RFQ.",
+            "value": "This RFQ is issued solely to solicit pricing information. It does not constitute an offer, and the Buyer is under no obligation to award a purchase order to any Supplier responding to this RFQ.",
+            "bBox": {
+              "x": 50.1,
+              "y": 407.04,
+              "w": 506.44,
+              "h": 22.62,
+              "confidence": 0.7,
+              "label": "text"
+            }
+          },
+          {
+            "type": "heading",
+            "md": "# 7.2 Confidentiality",
+            "value": "7.2 Confidentiality",
+            "lvl": 1,
+            "bBox": {
+              "x": 50.1,
+              "y": 440.14,
+              "w": 111.84,
+              "h": 14.51,
+              "confidence": 0.7,
+              "label": "heading"
+            }
+          },
+          {
+            "type": "text",
+            "md": "All information contained in this RFQ, and any information exchanged during the RFQ process, is confidential and shall not be disclosed to third parties without prior written consent of the Buyer.",
+            "value": "All information contained in this RFQ, and any information exchanged during the RFQ process, is confidential and shall not be disclosed to third parties without prior written consent of the Buyer.",
+            "bBox": {
+              "x": 50.1,
+              "y": 460.14,
+              "w": 509.19,
+              "h": 22.62,
+              "confidence": 0.7,
+              "label": "text"
+            }
+          },
+          {
+            "type": "heading",
+            "md": "# 7.3 Costs of Response",
+            "value": "7.3 Costs of Response",
+            "lvl": 1,
+            "bBox": {
+              "x": 50.1,
+              "y": 493.24,
+              "w": 139.31,
+              "h": 14.51,
+              "confidence": 0.7,
+              "label": "heading"
+            }
+          },
+          {
+            "type": "text",
+            "md": "The Supplier shall bear all costs associated with preparing and submitting a response to this RFQ. The Buyer shall not be liable for any such costs.",
+            "value": "The Supplier shall bear all costs associated with preparing and submitting a response to this RFQ. The Buyer shall not be liable for any such costs.",
+            "bBox": {
+              "x": 50.1,
+              "y": 513.24,
+              "w": 511.38,
+              "h": 22.62,
+              "confidence": 0.7,
+              "label": "text"
+            }
+          },
+          {
+            "type": "heading",
+            "md": "# 7.4 Accuracy of Information",
+            "value": "7.4 Accuracy of Information",
+            "lvl": 1,
+            "bBox": {
+              "x": 50.1,
+              "y": 546.34,
+              "w": 171.05,
+              "h": 14.51,
+              "confidence": 0.7,
+              "label": "heading"
+            }
+          },
+          {
+            "type": "text",
+            "md": "The Supplier warrants that all information, pricing, and representations provided in its quotation are true, accurate, and complete to the best of its knowledge.",
+            "value": "The Supplier warrants that all information, pricing, and representations provided in its quotation are true, accurate, and complete to the best of its knowledge.",
+            "bBox": {
+              "x": 50.1,
+              "y": 566.34,
+              "w": 477.43,
+              "h": 22.62,
+              "confidence": 0.7,
+              "label": "text"
+            }
+          },
+          {
+            "type": "heading",
+            "md": "# 7.5 Governing Law",
+            "value": "7.5 Governing Law",
+            "lvl": 1,
+            "bBox": {
+              "x": 50.1,
+              "y": 599.43,
+              "w": 115.49,
+              "h": 14.51,
+              "confidence": 0.7,
+              "label": "heading"
+            }
+          },
+          {
+            "type": "text",
+            "md": "This RFQ and any resulting purchase order shall be governed by the laws of India, with courts in Pune, Maharashtra having exclusive jurisdiction.",
+            "value": "This RFQ and any resulting purchase order shall be governed by the laws of India, with courts in Pune, Maharashtra having exclusive jurisdiction.",
+            "bBox": {
+              "x": 50.1,
+              "y": 619.44,
+              "w": 497.02,
+              "h": 22.62,
+              "confidence": 0.7,
+              "label": "text"
+            }
+          },
+          {
+            "type": "heading",
+            "md": "# 7.6 Award &#x26; Contract Formation",
+            "value": "7.6 Award &x26; Contract Formation",
+            "lvl": 1,
+            "bBox": {
+              "x": 58.1,
+              "y": 81.54,
+              "w": 7.5,
+              "h": 11.07,
+              "confidence": 0.7,
+              "label": "heading"
+            }
+          },
+          {
+            "type": "text",
+            "md": "A binding contract shall come into existence only upon the Buyer's issuance of a formal Purchase Order or execution of a definitive supply agreement referencing this RFQ and the Supplier's accepted quotation.",
+            "value": "A binding contract shall come into existence only upon the Buyer's issuance of a formal Purchase Order or execution of a definitive supply agreement referencing this RFQ and the Supplier's accepted quotation.",
+            "bBox": {
+              "x": 50.1,
+              "y": 672.54,
+              "w": 488.19,
+              "h": 22.62,
+              "confidence": 0.7,
+              "label": "text"
+            }
+          }
+        ],
+        "status": "OK",
+        "originalOrientationAngle": 0,
+        "links": [],
+        "width": 612,
+        "height": 792,
+        "triggeredAutoMode": false,
+        "parsingMode": "accurate",
+        "structuredData": null,
+        "noStructuredContent": false,
+        "noTextContent": false,
+        "pageHeaderMarkdown": "",
+        "pageFooterMarkdown": "",
+        "printedPageNumber": "",
+        "slideSpeakerNotes": null,
+        "slideSectionName": null,
+        "confidence": 0.915,
+        "costOptimized": false
+      },
+      {
+        "page": 3,
+        "text": "8. Supplier Acknowledgment & Signature\nBy signing below, the Supplier confirms it has read, understood, and agrees to respond in accordance with the terms of this\nRFQ.\n\nAuthorized Signatory (Supplier)\nName: Rohit Deshmukh             Title: Sales Director\nCompany: Vantage Steel & Alloys Pvt. Ltd.   Date: 19/07/2026\nSignature: __________________________\nAuthorized Representative (Buyer)\nName: Anjali Rao                 Title: Procurement Manager\nDate: 19/07/2026",
+        "md": "# 8. Supplier Acknowledgment &#x26; Signature\n\nBy signing below, the Supplier confirms it has read, understood, and agrees to respond in accordance with the terms of this RFQ.\n\n| Authorized Signatory (Supplier)           | Name: Rohit Deshmukh | Title: Sales Director                                           |\n| ----------------------------------------- | -------------------- | --------------------------------------------------------------- |\n| Company: Vantage Steel & Alloys Pvt. Ltd. | Date: 19/07/2026     | Signature: \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_ |\n\n| Authorized Representative (Buyer) | Name: Anjali Rao | Title: Procurement Manager |\n| --------------------------------- | ---------------- | -------------------------- |\n| Date: 19/07/2026                  |                  |                            |\n",
+        "images": [
+          {
+            "name": "page_3.jpg",
+            "height": 792,
+            "width": 612,
+            "x": 0,
+            "y": 0,
+            "original_width": 1236,
+            "original_height": 1600,
+            "rotation": 0,
+            "type": "full_page_screenshot"
+          }
+        ],
+        "charts": [],
+        "items": [
+          {
+            "type": "heading",
+            "md": "# 8. Supplier Acknowledgment &#x26; Signature",
+            "value": "8. Supplier Acknowledgment &x26; Signature",
+            "lvl": 1
+          },
+          {
+            "type": "text",
+            "md": "By signing below, the Supplier confirms it has read, understood, and agrees to respond in accordance with the terms of this RFQ.",
+            "value": "By signing below, the Supplier confirms it has read, understood, and agrees to respond in accordance with the terms of this RFQ.",
+            "bBox": {
+              "x": 50.1,
+              "y": 76.39,
+              "w": 494.44,
+              "h": 22.62,
+              "confidence": 0.7,
+              "label": "text"
+            }
+          },
+          {
+            "type": "table",
+            "md": "| Authorized Signatory (Supplier)           | Name: Rohit Deshmukh | Title: Sales Director                                           |\n| ----------------------------------------- | -------------------- | --------------------------------------------------------------- |\n| Company: Vantage Steel & Alloys Pvt. Ltd. | Date: 19/07/2026     | Signature: \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_ |",
+            "rows": [
+              [
+                "Authorized Signatory (Supplier)",
+                "Name: Rohit Deshmukh",
+                "Title: Sales Director"
+              ],
+              [
+                "Company: Vantage Steel & Alloys Pvt. Ltd.",
+                "Date: 19/07/2026",
+                "Signature: __________________________"
+              ]
+            ],
+            "isPerfectTable": true,
+            "csv": "\"Authorized Signatory (Supplier)\",\"Name: Rohit Deshmukh\",\"Title: Sales Director\"\n\"Company: Vantage Steel & Alloys Pvt. Ltd.\",\"Date: 19/07/2026\",\"Signature: __________________________\"",
+            "bBox": {
+              "x": 50.1,
+              "y": 114.49,
+              "w": 266.15,
+              "h": 102.37,
+              "confidence": 0.7,
+              "label": "table"
+            },
+            "parseConcerns": [
+              {
+                "type": "multi_table_page",
+                "details": "2 tables on page"
+              }
+            ]
+          },
+          {
+            "type": "table",
+            "md": "| Authorized Representative (Buyer) | Name: Anjali Rao | Title: Procurement Manager |\n| --------------------------------- | ---------------- | -------------------------- |\n| Date: 19/07/2026                  |                  |                            |",
+            "rows": [
+              [
+                "Authorized Representative (Buyer)",
+                "Name: Anjali Rao",
+                "Title: Procurement Manager"
+              ],
+              [
+                "Date: 19/07/2026",
+                "",
+                ""
+              ]
+            ],
+            "isPerfectTable": true,
+            "csv": "\"Authorized Representative (Buyer)\",\"Name: Anjali Rao\",\"Title: Procurement Manager\"\n\"Date: 19/07/2026\",\"\",\"\"",
+            "bBox": {
+              "x": 50.1,
+              "y": 50.57,
+              "w": 494.44,
+              "h": 166.29,
+              "confidence": 0.7,
+              "label": "table"
+            },
+            "parseConcerns": [
+              {
+                "type": "multi_table_page",
+                "details": "2 tables on page"
+              }
+            ]
+          }
+        ],
+        "status": "OK",
+        "originalOrientationAngle": 0,
+        "links": [],
+        "width": 612,
+        "height": 792,
+        "triggeredAutoMode": false,
+        "parsingMode": "accurate",
+        "structuredData": null,
+        "noStructuredContent": false,
+        "noTextContent": false,
+        "pageHeaderMarkdown": "",
+        "pageFooterMarkdown": "",
+        "printedPageNumber": "",
+        "slideSpeakerNotes": null,
+        "slideSectionName": null,
+        "confidence": 0.989,
+        "costOptimized": false
+      }
+    ],
+    "job_metadata": {
+      "credits_used": 0,
+      "job_credits_usage": 0,
+      "job_pages": 3,
+      "job_auto_mode_triggered_pages": 0,
+      "job_is_cache_hit": false
+    },
+    "job_id": "db17a70d-d23b-4165-bb30-a3ded9b6edde",
+    "file_path": "C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpy6b5j_64.pdf"
+  }
+]

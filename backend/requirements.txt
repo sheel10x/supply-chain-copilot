@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+llama-parse
+pinecone
+langchain
+langchain-core
+langchain-groq
+langchain-google-genai
+pydantic
+rank_bm25
+python-multipart

@@ -1,0 +1,80 @@
+[
+  {
+    "text": "\nGreat Lakes Metal Supply Co.\nPrecision Flat-Rolled Steel &#x26; Aluminum Distribution \u2014 Since 1987\nProposal in Response to RFP RM-2026-014 \u2014 Meridian Autoparts Inc.\nSubmitted: June 24, 2026\n\n",
+    "metadata": {
+      "headers": [],
+      "page": 1,
+      "bbox": null
+    }
+  },
+  {
+    "text": "# Executive Summary\n\nGreat Lakes Metal Supply (GLMS) is pleased to submit this proposal to supply Cold-Rolled Steel coil and 5052 Aluminum sheet to Meridian Autoparts' Elkhart facility. GLMS operates two service centers within 120 miles of Elkhart and currently supplies three other Tier-1 automotive stampers on JIT weekly schedules. We are IATF 16949 and ISO 14001 certified and can commit to the full volumes and lead times requested in Section 3 of the RFP.\n\n",
+    "metadata": {
+      "headers": [
+        "Executive Summary"
+      ],
+      "page": 1,
+      "bbox": null
+    }
+  },
+  {
+    "text": "# Materials Offered &#x26; Specifications\n\n| Req #  | Material       | GLMS Offering                                | Meets Spec? |\n| ------ | -------------- | -------------------------------------------- | ----------- |\n| REQ-01 | CRS Coil       | ASTM A1008 CS Type B, 0.8-2.5mm \u00b10.025mm     | Yes         |\n| REQ-02 | CRS Coil       | Min. yield 280 MPa, width 900-1250mm         | Yes         |\n| REQ-03 | Aluminum Sheet | 5052-H32 ASTM B209, 1.0-3.0mm \u00b10.04mm        | Yes         |\n| REQ-04 | Aluminum Sheet | Mill finish, oil-coated, defect rate 0.3%    | Yes         |\n| REQ-05 | Both           | MTC issued per lot, EN 10204 Type 3.1        | Yes         |\n| REQ-06 | Both           | Full heat/lot traceability via barcode + ERP | Yes         |\n\n",
+    "metadata": {
+      "headers": [
+        "Materials Offered &#x26; Specifications"
+      ],
+      "page": 1,
+      "bbox": null
+    }
+  },
+  {
+    "text": "# Pricing\n\n| Material      | Grade / Thickness Band | Price (USD/MT, FOB Elkhart) | Pricing Basis           |\n| ------------- | ---------------------- | --------------------------- | ----------------------- |\n| CRS Coil      | 0.8-1.5mm              | $942 / MT                   | Fixed for 24-month term |\n| CRS Coil      | 1.5-2.5mm              | $918 / MT                   | Fixed for 24-month term |\n| Aluminum 5052 | 1.0-2.0mm              | $3,180 / MT                 | Fixed for 24-month term |\n| Aluminum 5052 | 2.0-3.0mm              | $3,095 / MT                 | Fixed for 24-month term |\n\n",
+    "metadata": {
+      "headers": [
+        "Pricing"
+      ],
+      "page": 1,
+      "bbox": null
+    }
+  },
+  {
+    "text": "# Delivery &#x26; Service Levels\n\nGLMS commits to a 98.4% on-time delivery rate (trailing 12-month average, references available), standard lead time of 7 business days, and an expedite option at 2 business days for a 6% surcharge. Non-conformance rate over the past year has been 0.21% by weight, covered under our standard return/credit policy (return authorization within 48 hours, credit issued within 10 business days). GLMS carries $10,000,000 in general liability coverage and maintains a documented business continuity plan including a secondary rolling partner in Ohio for coil supply backup.\n\n",
+    "metadata": {
+      "headers": [
+        "Delivery &#x26; Service Levels"
+      ],
+      "page": 1,
+      "bbox": null
+    }
+  },
+  {
+    "text": "# Certifications &#x26; Compliance\n\n",
+    "metadata": {
+      "headers": [
+        "Certifications &#x26; Compliance"
+      ],
+      "page": 1,
+      "bbox": null
+    }
+  },
+  {
+    "text": "# GLMS Certification and Compliance\n\nGLMS holds active IATF 16949:2016 certification (cert #GL-4471, renewed March 2026) and ISO 14001:2015 certification (cert #GL-EM-118). We are fully compliant with Dodd-Frank Section 1502 conflict minerals reporting and will provide a completed CMRT with each shipment cycle. All steel offered is melted and poured in the United States (Indiana and Ohio mills), satisfying Buy America / regional content requirements.\n\n",
+    "metadata": {
+      "headers": [
+        "GLMS Certification and Compliance"
+      ],
+      "page": 2,
+      "bbox": null
+    }
+  },
+  {
+    "text": "# Payment &#x26; Commercial Terms\n\nStandard payment terms: Net 60 from receipt of conforming goods, with a 1.5% discount available for Net 15 payment. GLMS offers a Vendor-Managed Inventory (VMI) program with on-site consignment stock targeted at 2 weeks of coverage, replenished automatically via EDI 830/862 signals from Meridian's MRP system, at no additional carrying cost to Meridian for the first 12 months.\n\nContact: proposals@glmetalsupply-example.com | Reference: GLMS-RM-2026-014 | Valid 90 days from submission.\n\n\n",
+    "metadata": {
+      "headers": [
+        "Payment &#x26; Commercial Terms"
+      ],
+      "page": 2,
+      "bbox": null
+    }
+  }
+]
