@@ -59,28 +59,34 @@ async def ingest_document(
       Agent 3 — Comparison vs. Baseline
     """
     try:
+        print(f"=== RECEIVED UPLOAD REQUEST for {file.filename} ===", flush=True)
         # 1. Save uploaded file temporarily
         with tempfile.NamedTemporaryFile(delete=False, suffix=".pdf") as tmp:
             shutil.copyfileobj(file.file, tmp)
             tmp_path = tmp.name
 
+        print("-> Saved temp file. Starting LlamaParse...", flush=True)
         # 2. Ingestion Phase — Parse & Chunk
         parser = RFPParser()
         chunker = RFPChunker()
         raw_json = await parser.parse_document(tmp_path)
+        
+        print("-> LlamaParse finished. Chunking document...", flush=True)
         chunks = chunker.chunk_document(raw_json)
-        print(f"Ingested {len(chunks)} chunks from '{file.filename}'")
+        print(f"-> Ingested {len(chunks)} chunks. Starting Pinecone Upsert & Embedding download...", flush=True)
 
         # 3. Vector Store Upsert (for hybrid search / RAG)
         store = RetrievalStore()
         store.upsert_chunks(chunks)
 
+        print("-> Pinecone Upsert finished. Starting Agent 1 (Extraction)...", flush=True)
         # 4. Agent Pipeline
         pipeline = AgentPipeline()
 
         # Agent 1: Extract all RFQ fields
         extracted_data = await pipeline.run_extraction(chunks)
 
+        print("-> Agent 1 finished. Starting Agent 2 (Normalization)...", flush=True)
         # Agent 2: Normalize units (metric/imperial, currency, etc.)
         normalization_report = await pipeline.run_normalization(extracted_data)
 
