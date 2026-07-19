@@ -69,6 +69,10 @@ async def ingest_document(
             shutil.copyfileobj(file.file, tmp)
             tmp_path = tmp.name
 
+        file_size = os.path.getsize(tmp_path)
+        if file_size == 0:
+            raise ValueError("Uploaded file is empty (0 bytes).")
+
         print("-> Saved temp file. Starting LlamaParse...", flush=True)
         # 2. Ingestion Phase — Parse & Chunk
         parser = RFPParser()
@@ -77,6 +81,11 @@ async def ingest_document(
         
         print("-> LlamaParse finished. Chunking document...", flush=True)
         chunks = chunker.chunk_document(raw_json)
+        
+        if not chunks:
+            print(f"RAW JSON DUMP: {raw_json}", flush=True)
+            raise ValueError("Failed to extract any text from the document. LlamaParse returned 0 chunks.")
+            
         print(f"-> Ingested {len(chunks)} chunks. Starting Pinecone Upsert & Embedding download...", flush=True)
 
         # 3. Vector Store Upsert (for hybrid search / RAG)
