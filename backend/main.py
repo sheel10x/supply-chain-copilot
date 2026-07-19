@@ -65,22 +65,22 @@ async def ingest_document(
             shutil.copyfileobj(file.file, tmp)
             tmp_path = tmp.name
 
-        print("-> Saved temp file. Starting PDF parsing...", flush=True)
-        # 2. Ingestion Phase — Parse locally with pypdf (Instant, no API keys, no hangs)
-        import pypdf
-        raw_text = ""
-        with open(tmp_path, "rb") as f:
-            reader = pypdf.PdfReader(f)
-            for page in reader.pages:
-                raw_text += page.extract_text() + "\n\n"
+        print("-> Saved temp file. Starting LlamaParse...", flush=True)
+        # 2. Ingestion Phase — Parse & Chunk
+        parser = RFPParser()
+        chunker = RFPChunker()
+        raw_json = await parser.parse_document(tmp_path)
         
-        print("-> PDF parsed successfully. Starting Agent 1 (Extraction)...", flush=True)
-        
-        # 3. Agent Pipeline (Bypass Pinecone and HuggingFace Embeddings entirely!)
-        # We just pass the entire raw text as a single chunk to the LLM. 
-        # Llama-3.3 has a 128k context window, so a 6KB PDF easily fits without vector search.
-        chunks = [{"text": raw_text}]
-        
+        print("-> LlamaParse finished. Chunking document...", flush=True)
+        chunks = chunker.chunk_document(raw_json)
+        print(f"-> Ingested {len(chunks)} chunks. Starting Pinecone Upsert & Embedding download...", flush=True)
+
+        # 3. Vector Store Upsert (for hybrid search / RAG)
+        store = RetrievalStore()
+        store.upsert_chunks(chunks)
+
+        print("-> Pinecone Upsert finished. Starting Agent 1 (Extraction)...", flush=True)
+        # 4. Agent Pipeline
         pipeline = AgentPipeline()
 
         # Agent 1: Extract all RFQ fields

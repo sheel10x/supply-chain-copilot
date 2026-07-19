@@ -12,4 +12,3 @@ rank_bm25
 python-multipart
 langchain-huggingface
 sentence-transformers
-pypdf
