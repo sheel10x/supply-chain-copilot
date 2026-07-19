@@ -6,11 +6,11 @@ from rank_bm25 import BM25Okapi
 
 class RetrievalStore:
     def __init__(self, index_name: str = "rfp-analyzer-gemini"):
-        self.pc = Pinecone(api_key=os.environ.get("PINECONE_API_KEY"))
+        self.pc = Pinecone(api_key=os.environ.get("PINECONE_API_KEY", "").strip())
         self.index_name = index_name
         
         # Initialize Embeddings (Google Gemini API - instant, no RAM usage)
-        gemini_api_key = os.environ.get("GEMINI_API_KEY")
+        gemini_api_key = os.environ.get("GEMINI_API_KEY", "").strip()
         if not gemini_api_key:
             raise ValueError("GEMINI_API_KEY is missing! You must add it to your Render dashboard to use fast embeddings.")
             

@@ -11,7 +11,7 @@ os.makedirs(CACHE_DIR, exist_ok=True)
 
 class RFPParser:
     def __init__(self, api_key: str = None):
-        self.api_key = api_key or os.environ.get("LLAMA_CLOUD_API_KEY")
+        self.api_key = api_key or os.environ.get("LLAMA_CLOUD_API_KEY", "").strip()
         if not self.api_key:
             raise ValueError("LLAMA_CLOUD_API_KEY is missing! You must add it to your Render dashboard Environment Variables for the backend.")
             

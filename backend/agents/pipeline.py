@@ -10,7 +10,7 @@ from agents.schemas import ExtractedRFQData, NormalizationReport, ComparisonRepo
 
 class AgentPipeline:
     def __init__(self):
-        groq_api_key = os.environ.get("GROQ_API_KEY")
+        groq_api_key = os.environ.get("GROQ_API_KEY", "").strip()
         if not groq_api_key:
             print("Warning: GROQ_API_KEY is missing.")
 
