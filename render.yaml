@@ -9,10 +9,20 @@ services:
     envVars:
       - key: PYTHON_VERSION
         value: 3.10.0
-      - key: OPENAI_API_KEY
-        sync: false
       - key: PINECONE_API_KEY
         sync: false
+      - key: LLAMA_CLOUD_API_KEY
+        sync: false
+      - key: GROQ_API_KEY
+        sync: false
+      - key: GEMINI_API_KEY
+        sync: false
+      - key: PINECONE_ENVIRONMENT
+        value: "gcp-starter"
+      - key: PINECONE_INDEX_NAME
+        value: "rfp-analyzer"
+      - key: UPLOAD_ACCESS_CODE
+        value: "dev-access-code"
 
   - type: web
     name: supply-chain-copilot-frontend
