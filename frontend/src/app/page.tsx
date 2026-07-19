@@ -163,12 +163,12 @@ export default function Dashboard() {
   const [showModal, setShowModal]       = useState(false);
   const [pendingFile, setPendingFile]   = useState<File | null>(null);
   const [formData, setFormData]         = useState({
-    run_name: "",
-    description: "",
-    purpose: "",
-    key_features: "Price, Delivery, Technical Specs, Certifications",
-    additional_considerations: "",
-    baseline_criteria: ""
+    run_name: "Q3 Steel Procurement Audit",
+    description: "Sourcing raw materials for the new automotive chassis line.",
+    purpose: "Evaluating vendors on cost, speed, and strict material tolerances.",
+    key_features: "Price, Delivery Time, Material Grade, Defect Rate",
+    additional_considerations: "We strictly require ISO 14001 certification. If they don't have it, flag them.",
+    baseline_criteria: "1. Price must be under $1,000 per Metric Ton.\n2. Delivery lead time must be faster than 10 days.\n3. Material must be Cold-Rolled Steel.\n4. Defect rate must be absolutely less than 0.5%."
   });
 
   const tabs = [
@@ -337,7 +337,10 @@ export default function Dashboard() {
                 <h1 className="greeting-title">Good morning, Admin</h1>
                 <p className="greeting-subtitle">Stay on top of your RFQ analyses, monitor compliance, and track vendor status.</p>
               </div>
-              <div style={{ display: "flex", gap: "12px" }}>
+              <div style={{ display: "flex", gap: "12px", alignItems: "center" }}>
+                <a href="/sample_proposal.pdf" download className="btn-secondary" style={{ textDecoration: "none", color: "var(--text-secondary)" }}>
+                  <FileText size={16} /> Sample PDF
+                </a>
                 <input type="file" accept=".pdf" ref={fileInputRef} style={{ display: "none" }} onChange={handleFileChange} />
                 <button className="btn-secondary" onClick={() => setActiveTab("Extraction")}><RefreshCw size={16} /> Refresh</button>
                 <button className="btn-primary" onClick={handleUploadClick} disabled={isUploading}>
