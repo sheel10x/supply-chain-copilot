@@ -14,12 +14,12 @@ class AgentPipeline:
         if not groq_api_key:
             print("Warning: GROQ_API_KEY is missing.")
 
-        # Llama 3.3 70B — fast, cheap, great at structured JSON
         self.llm = ChatGroq(
             temperature=0,
             model_name="llama-3.3-70b-versatile",
             api_key=groq_api_key,
-            model_kwargs={"response_format": {"type": "json_object"}}
+            model_kwargs={"response_format": {"type": "json_object"}},
+            max_retries=1
         )
 
     # ------------------------------------------------------------------

@@ -13,7 +13,7 @@ class RFPParser:
     def __init__(self, api_key: str = None):
         self.api_key = api_key or os.environ.get("LLAMA_CLOUD_API_KEY")
         if not self.api_key:
-            print("Warning: LLAMA_CLOUD_API_KEY is not set.")
+            raise ValueError("LLAMA_CLOUD_API_KEY is missing! You must add it to your Render dashboard Environment Variables for the backend.")
             
         # Initialize LlamaParse
         # Note: LlamaParse premium tier might require `premium_mode=True` or similar.
